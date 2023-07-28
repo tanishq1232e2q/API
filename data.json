@@ -1,0 +1,26 @@
+[{
+    "list":{
+        "name":{
+            "n1":"Tanishq",
+            "n2":"Saurabh",
+            "n3":"Koki",
+            "n4":"Gian"
+        },"role":{
+            "r1":"Developer",
+            "r2":"Painter",
+            "r3":"Teacher"
+        },"Salary":{
+            "s1":40000000,
+            "s2":670000,
+            "s3":89000
+        }
+    },
+    "Hobby":{
+        "h1":"Dancing",
+        "h2":"Singing",
+        "h3":"Drawing",
+        "h4":"Football"
+    }
+}
+
+]
